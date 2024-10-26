@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.home{
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+
+.order{
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+}
+
+.fontSaya{
+    font-family: "Kablammo", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 0;
+  }
+  
+  .nav{
+    display: flex;
+    background-color: chocolate;
+    height: 10dvh;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+    
+
+  .main{
+    height: 90dvh;
+    background-image: url('https://assets.unileversolutions.com/v1/63465882.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+  }
+
+  .parentMain{
+    display: block;
+    margin-left: 20px;
+  }
